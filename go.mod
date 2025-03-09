@@ -17,7 +17,7 @@ require (
 	k8s.io/apimachinery v0.32.2
 	k8s.io/client-go v0.32.2
 	k8s.io/component-base v0.32.2
-	sigs.k8s.io/cluster-api v1.8.5
+	sigs.k8s.io/cluster-api v1.9.5
 	sigs.k8s.io/controller-runtime v0.20.3
 )
 
@@ -40,7 +40,7 @@ require (
 	github.com/go-openapi/jsonreference v0.20.2 // indirect
 	github.com/go-openapi/swag v0.23.0 // indirect
 	github.com/go-stack/stack v1.8.1 // indirect
-	github.com/gobuffalo/flect v1.0.2 // indirect
+	github.com/gobuffalo/flect v1.0.3 // indirect
 	github.com/gogo/protobuf v1.3.2 // indirect
 	github.com/golang/protobuf v1.5.4 // indirect
 	github.com/google/btree v1.1.3 // indirect
